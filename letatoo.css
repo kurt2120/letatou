@@ -1,0 +1,109 @@
+header {
+    background-color: white ;
+    padding: 35px;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 0;   
+}
+
+a{
+    margin-left: 50px;
+    text-decoration: none;
+    color: rgb(23, 129, 23);
+
+}
+
+.imagedefond { 
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("image/tatt.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 800px;
+    opacity: 80%;
+    padding-bottom: 120px;
+   
+}
+
+.cadre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cadreur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    margin: auto;
+    text-align: center;
+    background-color:  white;
+    opacity: 50%;
+    color: rgb(24, 55, 24);
+    font-family: montserrat ; 
+    font-size: 25px;
+    border-radius: 50px;
+    text-align: justify;
+}
+
+h2{
+    font-size: 30px;
+    color:  rgb(23, 129, 23);
+    text-align: center;
+    font-family: montserrat;
+
+}
+
+p{
+    text-align: center;
+    margin-bottom: 100px;
+    font-family: montserrat;
+    text-align: justify;
+    margin: auto 30%;
+    padding-bottom: 60px;
+    text-align: justify left;
+    font-size: 20px;
+}
+
+h3{
+    font-size: 27px;
+    color:  rgb(23, 129, 23);
+    text-align: center;
+    font-family: montserrat;
+}
+
+footer {
+    background-color: white;
+    padding: 35px;
+    font-size: 1.5em;
+    top: 10px;  
+    margin-bottom: 0px;
+    bottom: 0px; 
+}
+
+footer img{
+    width: 48px;
+    height: 48px;
+}
+
+footer a{
+    text-align: center;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+}
+
+.flotte {
+    float:left;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
